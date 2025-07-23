@@ -1,0 +1,7 @@
+{
+    "Tank_Capacity": 100,
+    "Pipe_Diameter": 10.0,
+    "Pipe_Length": 10.0,
+    "Flow_Rate": 0.5,
+    "Time_Delay": 5
+}
