@@ -1,51 +1,9 @@
 [
     {
-        "Time": "2025-05-14 23:41:14",
-        "Tank starting level": 10,
+        "Time": "2025-07-23 16:04:06",
+        "Tank starting level": 1,
         "Tank ending level": 100,
         "Motor on time": "0h 0m 7s",
-        "Overflow": "0.042 Litres"
-    },
-    {
-        "Time": "2025-05-14 23:41:28",
-        "Tank starting level": 10,
-        "Tank ending level": 95,
-        "Motor on time": "0h 0m 11s",
-        "Overflow": "0 Litres"
-    },
-    {
-        "Time": "2025-05-15 12:10:54",
-        "Tank starting level": 10,
-        "Tank ending level": 95,
-        "Motor on time": "0h 0m 8s",
-        "Overflow": "0 Litres"
-    },
-    {
-        "Time": "2025-05-15 13:05:52",
-        "Tank starting level": 10,
-        "Tank ending level": 95,
-        "Motor on time": "0h 0m 25s",
-        "Overflow": "0 Litres"
-    },
-    {
-        "Time": "2025-05-15 14:45:03",
-        "Tank starting level": 10,
-        "Tank ending level": 95,
-        "Motor on time": "0h 0m 7s",
-        "Overflow": "0 Litres"
-    },
-    {
-        "Time": "2025-05-15 14:59:31",
-        "Tank starting level": 10,
-        "Tank ending level": 95,
-        "Motor on time": "0h 0m 12s",
-        "Overflow": "0 Litres"
-    },
-    {
-        "Time": "2025-07-21 22:43:47",
-        "Tank starting level": 10,
-        "Tank ending level": 95,
-        "Motor on time": "0h 0m 9s",
-        "Overflow": "0 Litres"
+        "Overflow": "0.417 Litres"
     }
 ]
